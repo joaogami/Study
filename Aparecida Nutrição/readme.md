@@ -1,4 +1,5 @@
 ## JavaScript
+Projeto desenvolvido durante a matéria de JavaScript da Alura.
 
 ~~~javascript
 var paciente = document.querySelector("#primeiro-paciente");
