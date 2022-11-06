@@ -1,2 +1,2 @@
 # Study
- Repositórios de projetos criados com o propósito de estudo.
+ Repository with projects created with a study proposal.
